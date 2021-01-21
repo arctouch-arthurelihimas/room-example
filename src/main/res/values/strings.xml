@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quotes</string>
+    <string name="button_add">Add</string>
+    <string name="hint_quote">quote text</string>
+    <string name="button_quotes">Quotes</string>
+    <string name="button_authors">Authors</string>
+    <string name="button_quotes_with_authors">Quotes with autors</string>
+    <string name="button_delete">Delete</string>
+    <string name="hint_author">Author name</string>
+</resources>
